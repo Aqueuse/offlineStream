@@ -1,0 +1,7 @@
+[package]
+name = "offlineStream"
+description = "A simple twitch game"
+readme = "README.md"
+include = ["src/**/*", "Cargo.toml"]
+
+[dependencies]
