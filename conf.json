@@ -1,0 +1,15 @@
+{
+	"word" : "",
+	"players" : [
+		{
+			"user-id" : "",
+			"rule" : "",
+			"timeout" : ""
+		},
+		{
+			"user-id" : "",
+			"rule" : "",
+			"timeout" : ""
+		}
+    ]
+}
